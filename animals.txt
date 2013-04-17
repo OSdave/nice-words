@@ -1,3 +1,8 @@
 chèvre
 poney
 chien
+chat
+loup
+lièvre
+souris
+vache
